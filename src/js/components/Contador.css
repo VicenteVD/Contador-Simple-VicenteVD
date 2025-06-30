@@ -1,0 +1,19 @@
+.contador-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.contador-card {
+    background-color: #000;
+    color: #0f0;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 8px;
+    min-width: 60px;
+    text-align: center;
+    font-size: 36px;
+    font-family: monospace;
+    box-shadow: 0 0 10px #0f0;
+}
